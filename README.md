@@ -1,2 +1,2 @@
 # Spotify-Display---Hack-Club-Stasis
-<img width="3024" height="4032" alt="IMG_9591" src="https://github.com/user-attachments/assets/ed8e5125-33b1-4725-b641-e75e9d9d59a9" />
+<img width="770" height="531" alt="Screenshot 2026-04-18 113303" src="https://github.com/user-attachments/assets/dd1a3216-c4e5-4449-b685-1ba8460c74b6" />
